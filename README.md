@@ -20,7 +20,7 @@ I'm Anthony, welcome to my git.
   <img
     alt="Top languages"
     height="180em"
-    src="https://github-stats-backend.vercel.app/api/top-langs/?username=AnthonyLeigh25&layout=compact&langs_count=8&theme=dracula&hide_border=true"
+    src="https://github-stats-backend.vercel.app/api/top-langs/?username=AnthonyLeigh25&layout=compact&langs_count=8&theme=radical&hide_border=true"
   />
 </p>
 

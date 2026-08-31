@@ -2,7 +2,7 @@
 
 I'm Anthony, welcome to my git.
 
-- 🔭 Currently working on: Top Secret :-)
+- 🔭 Currently working on: Projects for myself, work and Aurora Services Group (hush hush).
 - 🌱 Currently learning: LUA, js, how not to cry when something fails spectacularly.
 - 💬 Ask me about: Audio, Media. Systems development.
 - 📫 How to reach me: anthony.leigh@aurora-services.co.uk

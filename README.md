@@ -29,7 +29,7 @@ Pin a specific repository card (uncomment and set repo=):
 
 <img
   alt="Pinned repository"
-  src="https://github-stats-extended.vercel.app/api/pin/?username=AnthonyLeigh25&repo=REPO_NAME&theme=transparent&hide_border=true"
+  src="https://github-stats-backend-ant-7113.vercel.app/api/pin/?username=AnthonyLeigh25&repo=REPO_NAME&theme=transparent&hide_border=true"
 />
 
 Handy options for the cards above:
@@ -39,5 +39,5 @@ Handy options for the cards above:
   exclude_repo=   repo-a,repo-b
   card_width=     e.g. 400
 
-Build cards visually here: https://github-stats-extended.vercel.app/frontend
+Build cards visually here: https://github-stats-backend-ant-7113.vercel.app/frontend
 -->

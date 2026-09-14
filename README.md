@@ -15,12 +15,12 @@ I'm Anthony, welcome to my git.
   <img
     alt="Ant's GitHub stats"
     height="180em"
-    src="https://github-stats-backend-ant-7113.vercel.app/api?username=AnthonyLeigh25&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&rank_icon=github"
+    src="https://github-stats-backend.vercel.app/api?username=AnthonyLeigh25&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&rank_icon=github"
   />
   <img
     alt="Top languages"
     height="180em"
-    src="https://github-stats-backend-ant-7113.vercel.app/api/top-langs/?username=AnthonyLeigh25&layout=compact&langs_count=8&theme=radical&hide_border=true"
+    src="https://github-stats-backend.vercel.app/api/top-langs/?username=AnthonyLeigh25&layout=compact&langs_count=8&theme=radical&hide_border=true"
   />
 </p>
 
